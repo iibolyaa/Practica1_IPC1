@@ -155,7 +155,7 @@ public class pacman {
         System.out.println("Columna:");
         pacManY = Integer.parseInt(nc.nextLine());
 
-        //Imprimir matriz
+        //Imprimir tablero
 
         vidas = 3;
 
